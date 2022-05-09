@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-mouse-left">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="mouse-left" clip-path="url(#clip-mouse-left)">
+    <rect width="100" height="100" fill="rgba(255,255,255,0)"/>
+    <path id="패스_1" data-name="패스 1" d="M22.5,0a22.754,22.754,0,0,1,23,22.5v35A22.754,22.754,0,0,1,22.5,80" transform="translate(72.5 90.5) rotate(180)" fill="none" stroke="#333" stroke-width="1"/>
+  </g>
+</svg>
