@@ -267,7 +267,7 @@ a{color: #333;text-decoration: none;}
 .cjone_inner .cjone_page{left: 3%;top: 15%;width: 100%;height: 100%;}
 .cjone_inner .cjone_page li{z-index: 10;opacity: 0;position: absolute; display: block;}
 .cjone_inner .cjone_page li:nth-child(1){left: 0; width: 850px;height: 510px; background: url(../img/devices/Laptop-b.png) no-repeat 0 0;background-size: cover;}
-.cjone_inner .cjone_page li:nth-child(2){left: 35%; width: 330px;height: 450px; background: url(../img/devices/Pad-2.png) no-repeat 0 0;background-size: cover;}
+.cjone_inner .cjone_page li:nth-child(2){left: 35%; width: 330px;height: 450px; background: url(../img/devices/pad-2.png) no-repeat 0 0;background-size: cover;}
 .cjone_inner .cjone_page li:nth-child(3){left: 48%; width: 230px;height: 430px; background: url(../img/devices/Phone-b-2.png) no-repeat 50% 0;background-size: cover;}
 
 .cjone_inner .cjone_page li span{overflow: hidden;display: block;position: absolute;}
